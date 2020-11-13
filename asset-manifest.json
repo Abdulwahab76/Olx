@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e22735ce.chunk.css",
+    "main.js": "/static/js/main.5448b4ad.chunk.js",
+    "main.js.map": "/static/js/main.5448b4ad.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bf26d36c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bf26d36c.js.map",
+    "static/js/2.64de36ec.chunk.js": "/static/js/2.64de36ec.chunk.js",
+    "static/js/2.64de36ec.chunk.js.map": "/static/js/2.64de36ec.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.52bc6770936f8b96d4124d548a60b23f.js": "/precache-manifest.52bc6770936f8b96d4124d548a60b23f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e22735ce.chunk.css.map": "/static/css/main.e22735ce.chunk.css.map",
+    "static/js/2.64de36ec.chunk.js.LICENSE.txt": "/static/js/2.64de36ec.chunk.js.LICENSE.txt",
+    "static/media/animal-kingdom.png": "/static/media/animal-kingdom.9d1961ef.png",
+    "static/media/businessman.png": "/static/media/businessman.7c88a250.png",
+    "static/media/electronic.png": "/static/media/electronic.8a8e0f67.png",
+    "static/media/facebook-brands.svg": "/static/media/facebook-brands.62d8b6ef.svg",
+    "static/media/google-brands.svg": "/static/media/google-brands.da3a9ed4.svg",
+    "static/media/heart-regular.svg": "/static/media/heart-regular.311b7fc9.svg",
+    "static/media/olx-header.jpg": "/static/media/olx-header.fc6dd4dd.jpg",
+    "static/media/property.png": "/static/media/property.9375a416.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf26d36c.js",
+    "static/js/2.64de36ec.chunk.js",
+    "static/css/main.e22735ce.chunk.css",
+    "static/js/main.5448b4ad.chunk.js"
+  ]
+}
